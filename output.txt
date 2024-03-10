@@ -1,0 +1,836 @@
+
+
+Treinamento do Neuronio 0
+Para o neuronio 0 e input 0, o resultado na saida foi 0.0
+Para o neuronio 0 e input 1, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 0 com base no input 1:
+Pesos: [ 2. -2.  2.  2. -2. -2.  2.  2.  2. -2.  2.  2.  2. -2.  2.  2. -2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 0 e input 0, o resultado na saida foi -2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 0 com base no input 0:
+Pesos: [ 0.  0.  4.  0.  0. -4.  0.  4.  4. -4.  0.  4.  4. -4.  0.  4. -4.  0.
+  0.  0.]
+Bias: 0.0
+
+Para o neuronio 0 e input 0, o resultado na saida foi 40.0
+Para o neuronio 0 e input 1, o resultado na saida foi -40.0
+Para o neuronio 0 e input 2, o resultado na saida foi -8.0
+Para o neuronio 0 e input 3, o resultado na saida foi 8.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 0 com base no input 3:
+Pesos: [-2. -2.  2.  2.  2. -2.  2.  2.  6. -2. -2.  6.  6. -2.  2.  2. -6. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 0 e input 0, o resultado na saida foi 26.0
+Para o neuronio 0 e input 1, o resultado na saida foi -46.0
+Para o neuronio 0 e input 2, o resultado na saida foi -30.0
+Para o neuronio 0 e input 3, o resultado na saida foi -34.0
+Para o neuronio 0 e input 4, o resultado na saida foi 10.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 0 com base no input 4:
+Pesos: [-4.  0.  0.  4.  0.  0.  0.  4.  4. -4. -4.  4.  8.  0.  0.  4. -4.  0.
+ -4.  4.]
+Bias: -4.0
+
+Para o neuronio 0 e input 0, o resultado na saida foi 24.0
+Para o neuronio 0 e input 1, o resultado na saida foi -40.0
+Para o neuronio 0 e input 2, o resultado na saida foi -24.0
+Para o neuronio 0 e input 3, o resultado na saida foi -32.0
+Para o neuronio 0 e input 4, o resultado na saida foi -32.0
+Para o neuronio 0 e input 5, o resultado na saida foi -32.0
+Para o neuronio 0 e input 6, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 0 com base no input 6:
+Pesos: [-2. -2. -2.  2. -2.  2.  2.  6.  2. -6. -6.  6.  6.  2.  2.  2. -2. -2.
+ -6.  6.]
+Bias: -6.0
+
+Para o neuronio 0 e input 0, o resultado na saida foi 2.0
+Para o neuronio 0 e input 1, o resultado na saida foi -46.0
+Para o neuronio 0 e input 2, o resultado na saida foi -30.0
+Para o neuronio 0 e input 3, o resultado na saida foi -42.0
+Para o neuronio 0 e input 4, o resultado na saida foi -38.0
+Para o neuronio 0 e input 5, o resultado na saida foi -62.0
+Para o neuronio 0 e input 6, o resultado na saida foi -42.0
+Para o neuronio 0 e input 7, o resultado na saida foi -22.0
+Para o neuronio 0 e input 8, o resultado na saida foi -38.0
+Para o neuronio 0 e input 9, o resultado na saida foi -30.0
+
+
+Treinamento do Neuronio 1
+Para o neuronio 1 e input 0, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 1 com base no input 0:
+Pesos: [ 2. -2. -2.  2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  2.  2. -2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 1 e input 0, o resultado na saida foi -42.0
+Para o neuronio 1 e input 1, o resultado na saida foi -2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 1 com base no input 1:
+Pesos: [ 0.  0. -4.  0.  0.  4.  0. -4. -4.  4.  0. -4. -4.  4.  0. -4.  4.  0.
+  0.  0.]
+Bias: 0.0
+
+Para o neuronio 1 e input 0, o resultado na saida foi -40.0
+Para o neuronio 1 e input 1, o resultado na saida foi 40.0
+Para o neuronio 1 e input 2, o resultado na saida foi 8.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 1 com base no input 2:
+Pesos: [ 2. -2. -6.  2. -2.  6.  2. -6. -2.  6. -2. -2. -2.  2.  2. -2.  2. -2.
+ -2. -2.]
+Bias: -2.0
+
+Para o neuronio 1 e input 0, o resultado na saida foi -50.0
+Para o neuronio 1 e input 1, o resultado na saida foi 22.0
+Para o neuronio 1 e input 2, o resultado na saida foi -34.0
+Para o neuronio 1 e input 3, o resultado na saida foi -30.0
+Para o neuronio 1 e input 4, o resultado na saida foi -2.0
+Para o neuronio 1 e input 5, o resultado na saida foi -10.0
+Para o neuronio 1 e input 6, o resultado na saida foi -22.0
+Para o neuronio 1 e input 7, o resultado na saida foi -18.0
+Para o neuronio 1 e input 8, o resultado na saida foi -34.0
+Para o neuronio 1 e input 9, o resultado na saida foi -34.0
+
+
+Treinamento do Neuronio 2
+Para o neuronio 2 e input 0, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 2 com base no input 0:
+Pesos: [ 2. -2. -2.  2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  2.  2. -2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 2 e input 0, o resultado na saida foi -42.0
+Para o neuronio 2 e input 1, o resultado na saida foi -2.0
+Para o neuronio 2 e input 2, o resultado na saida foi -10.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 2 com base no input 2:
+Pesos: [ 0.  0.  0.  0.  0.  0.  0.  0. -4.  0.  4. -4. -4.  4.  0. -4.  4.  0.
+  0.  4.]
+Bias: 0.0
+
+Para o neuronio 2 e input 0, o resultado na saida foi -32.0
+Para o neuronio 2 e input 1, o resultado na saida foi 16.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 2 com base no input 1:
+Pesos: [ 2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  6. -2. -2.  2.  2. -2.  2. -2.
+ -2.  6.]
+Bias: -2.0
+
+Para o neuronio 2 e input 0, o resultado na saida foi -34.0
+Para o neuronio 2 e input 1, o resultado na saida foi -26.0
+Para o neuronio 2 e input 2, o resultado na saida foi 14.0
+Para o neuronio 2 e input 3, o resultado na saida foi 2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 2 com base no input 3:
+Pesos: [ 0. -4.  0.  4.  0.  0.  4.  0.  0.  0.  4.  0.  0.  4.  4. -4.  0. -4.
+ -4.  8.]
+Bias: -4.0
+
+Para o neuronio 2 e input 0, o resultado na saida foi -48.0
+Para o neuronio 2 e input 1, o resultado na saida foi -32.0
+Para o neuronio 2 e input 2, o resultado na saida foi -8.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 2 com base no input 2:
+Pesos: [-2. -2.  2.  2.  2. -2.  2.  2. -2. -2.  6. -2. -2.  6.  2. -6.  2. -2.
+ -2. 10.]
+Bias: -2.0
+
+Para o neuronio 2 e input 0, o resultado na saida foi -38.0
+Para o neuronio 2 e input 1, o resultado na saida foi -14.0
+Para o neuronio 2 e input 2, o resultado na saida foi 34.0
+Para o neuronio 2 e input 3, o resultado na saida foi -18.0
+Para o neuronio 2 e input 4, o resultado na saida foi -6.0
+Para o neuronio 2 e input 5, o resultado na saida foi -22.0
+Para o neuronio 2 e input 6, o resultado na saida foi -26.0
+Para o neuronio 2 e input 7, o resultado na saida foi 10.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 2 com base no input 7:
+Pesos: [-4. -4.  0.  0.  4.  0.  4.  0.  0.  0.  4.  0.  0.  4.  4. -4.  4. -4.
+  0. 12.]
+Bias: -4.0
+
+Para o neuronio 2 e input 0, o resultado na saida foi -40.0
+Para o neuronio 2 e input 1, o resultado na saida foi -16.0
+Para o neuronio 2 e input 2, o resultado na saida foi 16.0
+Para o neuronio 2 e input 3, o resultado na saida foi -40.0
+Para o neuronio 2 e input 4, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 2 com base no input 4:
+Pesos: [-6. -2. -2.  2.  2.  2.  2.  2. -2. -2.  2. -2.  2.  6.  2. -2.  6. -2.
+ -2. 14.]
+Bias: -6.0
+
+Para o neuronio 2 e input 0, o resultado na saida foi -42.0
+Para o neuronio 2 e input 1, o resultado na saida foi -10.0
+Para o neuronio 2 e input 2, o resultado na saida foi 22.0
+Para o neuronio 2 e input 3, o resultado na saida foi -38.0
+Para o neuronio 2 e input 4, o resultado na saida foi -42.0
+Para o neuronio 2 e input 5, o resultado na saida foi -42.0
+Para o neuronio 2 e input 6, o resultado na saida foi -38.0
+Para o neuronio 2 e input 7, o resultado na saida foi -26.0
+Para o neuronio 2 e input 8, o resultado na saida foi -34.0
+Para o neuronio 2 e input 9, o resultado na saida foi -2.0
+
+
+Treinamento do Neuronio 3
+Para o neuronio 3 e input 0, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 3 com base no input 0:
+Pesos: [ 2. -2. -2.  2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  2.  2. -2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 3 e input 0, o resultado na saida foi -42.0
+Para o neuronio 3 e input 1, o resultado na saida foi -2.0
+Para o neuronio 3 e input 2, o resultado na saida foi -10.0
+Para o neuronio 3 e input 3, o resultado na saida foi -14.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 3 com base no input 3:
+Pesos: [ 4.  0.  0.  0. -4.  0.  0.  0. -4.  0.  4. -4. -4.  0.  0.  0.  4.  0.
+  0.  0.]
+Bias: 0.0
+
+Para o neuronio 3 e input 0, o resultado na saida foi -28.0
+Para o neuronio 3 e input 1, o resultado na saida foi 4.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 3 com base no input 1:
+Pesos: [ 6. -2.  2.  2. -6. -2.  2.  2. -2. -2.  6. -2. -2. -2.  2.  2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 3 e input 0, o resultado na saida foi -30.0
+Para o neuronio 3 e input 1, o resultado na saida foi -38.0
+Para o neuronio 3 e input 2, o resultado na saida foi -6.0
+Para o neuronio 3 e input 3, o resultado na saida foi 22.0
+Para o neuronio 3 e input 4, o resultado na saida foi 2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 3 com base no input 4:
+Pesos: [ 4.  0.  0.  4. -8.  0.  0.  4. -4. -4.  4. -4.  0.  0.  0.  4.  4.  0.
+ -4.  4.]
+Bias: -4.0
+
+Para o neuronio 3 e input 0, o resultado na saida foi -32.0
+Para o neuronio 3 e input 1, o resultado na saida foi -32.0
+Para o neuronio 3 e input 2, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 3 com base no input 2:
+Pesos: [  6.  -2.  -2.   6. -10.   2.   2.   2.  -2.  -2.   2.  -2.   2.  -2.
+   2.   6.   2.  -2.  -6.   2.]
+Bias: -6.0
+
+Para o neuronio 3 e input 0, o resultado na saida foi -42.0
+Para o neuronio 3 e input 1, o resultado na saida foi -50.0
+Para o neuronio 3 e input 2, o resultado na saida foi -42.0
+Para o neuronio 3 e input 3, o resultado na saida foi 2.0
+Para o neuronio 3 e input 4, o resultado na saida foi -34.0
+Para o neuronio 3 e input 5, o resultado na saida foi -18.0
+Para o neuronio 3 e input 6, o resultado na saida foi -30.0
+Para o neuronio 3 e input 7, o resultado na saida foi 6.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 3 com base no input 7:
+Pesos: [ 4. -4. -4.  4. -8.  4.  4.  0.  0.  0.  0.  0.  4. -4.  4.  8.  4. -4.
+ -4.  4.]
+Bias: -8.0
+
+Para o neuronio 3 e input 0, o resultado na saida foi -44.0
+Para o neuronio 3 e input 1, o resultado na saida foi -52.0
+Para o neuronio 3 e input 2, o resultado na saida foi -60.0
+Para o neuronio 3 e input 3, o resultado na saida foi -20.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 3 com base no input 3:
+Pesos: [  6.  -2.  -2.   2. -10.   2.   2.   2.  -2.  -2.   2.  -2.   2.  -6.
+   2.  10.   6.  -2.  -2.   2.]
+Bias: -6.0
+
+Para o neuronio 3 e input 0, o resultado na saida foi -30.0
+Para o neuronio 3 e input 1, o resultado na saida foi -46.0
+Para o neuronio 3 e input 2, o resultado na saida foi -38.0
+Para o neuronio 3 e input 3, o resultado na saida foi 22.0
+Para o neuronio 3 e input 4, o resultado na saida foi -30.0
+Para o neuronio 3 e input 5, o resultado na saida foi -6.0
+Para o neuronio 3 e input 6, o resultado na saida foi -26.0
+Para o neuronio 3 e input 7, o resultado na saida foi -14.0
+Para o neuronio 3 e input 8, o resultado na saida foi -22.0
+Para o neuronio 3 e input 9, o resultado na saida foi -14.0
+
+
+Treinamento do Neuronio 4
+Para o neuronio 4 e input 0, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 4 com base no input 0:
+Pesos: [ 2. -2. -2.  2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  2.  2. -2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 4 e input 0, o resultado na saida foi -42.0
+Para o neuronio 4 e input 1, o resultado na saida foi -2.0
+Para o neuronio 4 e input 2, o resultado na saida foi -10.0
+Para o neuronio 4 e input 3, o resultado na saida foi -14.0
+Para o neuronio 4 e input 4, o resultado na saida foi -2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 4 com base no input 4:
+Pesos: [ 4. -4.  0.  0.  0.  0.  4. -4.  0.  4.  4.  0. -4.  0.  4. -4.  0. -4.
+  0.  0.]
+Bias: 0.0
+
+Para o neuronio 4 e input 0, o resultado na saida foi -40.0
+Para o neuronio 4 e input 1, o resultado na saida foi -8.0
+Para o neuronio 4 e input 2, o resultado na saida foi -16.0
+Para o neuronio 4 e input 3, o resultado na saida foi -16.0
+Para o neuronio 4 e input 4, o resultado na saida foi 40.0
+Para o neuronio 4 e input 5, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 4 com base no input 5:
+Pesos: [ 2. -6. -2. -2. -2.  2.  6. -2. -2.  2.  2.  2. -2.  2.  6. -6. -2. -6.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 4 e input 0, o resultado na saida foi -50.0
+Para o neuronio 4 e input 1, o resultado na saida foi -18.0
+Para o neuronio 4 e input 2, o resultado na saida foi -26.0
+Para o neuronio 4 e input 3, o resultado na saida foi -38.0
+Para o neuronio 4 e input 4, o resultado na saida foi 30.0
+Para o neuronio 4 e input 5, o resultado na saida foi -42.0
+Para o neuronio 4 e input 6, o resultado na saida foi -46.0
+Para o neuronio 4 e input 7, o resultado na saida foi -18.0
+Para o neuronio 4 e input 8, o resultado na saida foi -42.0
+Para o neuronio 4 e input 9, o resultado na saida foi -34.0
+
+
+Treinamento do Neuronio 5
+Para o neuronio 5 e input 0, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 5 com base no input 0:
+Pesos: [ 2. -2. -2.  2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  2.  2. -2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 5 e input 0, o resultado na saida foi -42.0
+Para o neuronio 5 e input 1, o resultado na saida foi -2.0
+Para o neuronio 5 e input 2, o resultado na saida foi -10.0
+Para o neuronio 5 e input 3, o resultado na saida foi -14.0
+Para o neuronio 5 e input 4, o resultado na saida foi -2.0
+Para o neuronio 5 e input 5, o resultado na saida foi -10.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 5 com base no input 5:
+Pesos: [ 4.  0.  0.  4.  0.  0.  0. -4.  0.  4.  4. -4. -4.  0.  0.  0.  4.  0.
+  0.  0.]
+Bias: 0.0
+
+Para o neuronio 5 e input 0, o resultado na saida foi -32.0
+Para o neuronio 5 e input 1, o resultado na saida foi 8.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 5 com base no input 1:
+Pesos: [ 6. -2.  2.  6. -2. -2.  2. -2.  2.  2.  6. -2. -2. -2.  2.  2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 5 e input 0, o resultado na saida foi -34.0
+Para o neuronio 5 e input 1, o resultado na saida foi -34.0
+Para o neuronio 5 e input 2, o resultado na saida foi -18.0
+Para o neuronio 5 e input 3, o resultado na saida foi 2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 5 com base no input 3:
+Pesos: [ 4. -4.  0.  8.  0.  0.  4. -4.  4.  4.  4.  0.  0.  0.  4.  0.  0. -4.
+ -4.  4.]
+Bias: -4.0
+
+Para o neuronio 5 e input 0, o resultado na saida foi -48.0
+Para o neuronio 5 e input 1, o resultado na saida foi -40.0
+Para o neuronio 5 e input 2, o resultado na saida foi -40.0
+Para o neuronio 5 e input 3, o resultado na saida foi -40.0
+Para o neuronio 5 e input 4, o resultado na saida foi 16.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 5 com base no input 4:
+Pesos: [ 2. -2. -2. 10. -2.  2.  2. -2.  2.  2.  2. -2.  2.  2.  2.  2.  2. -2.
+ -6.  6.]
+Bias: -6.0
+
+Para o neuronio 5 e input 0, o resultado na saida foi -50.0
+Para o neuronio 5 e input 1, o resultado na saida foi -34.0
+Para o neuronio 5 e input 2, o resultado na saida foi -34.0
+Para o neuronio 5 e input 3, o resultado na saida foi -38.0
+Para o neuronio 5 e input 4, o resultado na saida foi -26.0
+Para o neuronio 5 e input 5, o resultado na saida foi -10.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 5 com base no input 5:
+Pesos: [ 4.  0.  0. 12.  0.  0.  0. -4.  4.  4.  4. -4.  0.  0.  0.  4.  4.  0.
+ -4.  4.]
+Bias: -4.0
+
+Para o neuronio 5 e input 0, o resultado na saida foi -40.0
+Para o neuronio 5 e input 1, o resultado na saida foi -24.0
+Para o neuronio 5 e input 2, o resultado na saida foi -24.0
+Para o neuronio 5 e input 3, o resultado na saida foi -16.0
+Para o neuronio 5 e input 4, o resultado na saida foi -16.0
+Para o neuronio 5 e input 5, o resultado na saida foi 32.0
+Para o neuronio 5 e input 6, o resultado na saida foi 16.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 5 com base no input 6:
+Pesos: [ 6. -2. -2. 10. -2.  2.  2. -2.  2.  2.  2. -2. -2.  2.  2.  2.  6. -2.
+ -6.  6.]
+Bias: -6.0
+
+Para o neuronio 5 e input 0, o resultado na saida foi -62.0
+Para o neuronio 5 e input 1, o resultado na saida foi -30.0
+Para o neuronio 5 e input 2, o resultado na saida foi -30.0
+Para o neuronio 5 e input 3, o resultado na saida foi -26.0
+Para o neuronio 5 e input 4, o resultado na saida foi -22.0
+Para o neuronio 5 e input 5, o resultado na saida foi 2.0
+Para o neuronio 5 e input 6, o resultado na saida foi -26.0
+Para o neuronio 5 e input 7, o resultado na saida foi -6.0
+Para o neuronio 5 e input 8, o resultado na saida foi -54.0
+Para o neuronio 5 e input 9, o resultado na saida foi -30.0
+
+
+Treinamento do Neuronio 6
+Para o neuronio 6 e input 0, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 6 com base no input 0:
+Pesos: [ 2. -2. -2.  2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  2.  2. -2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 6 e input 0, o resultado na saida foi -42.0
+Para o neuronio 6 e input 1, o resultado na saida foi -2.0
+Para o neuronio 6 e input 2, o resultado na saida foi -10.0
+Para o neuronio 6 e input 3, o resultado na saida foi -14.0
+Para o neuronio 6 e input 4, o resultado na saida foi -2.0
+Para o neuronio 6 e input 5, o resultado na saida foi -10.0
+Para o neuronio 6 e input 6, o resultado na saida foi -22.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 6 com base no input 6:
+Pesos: [ 0.  0.  0.  4.  0.  0.  0. -4.  0.  4.  4. -4.  0.  0.  0.  0.  0.  0.
+  0.  0.]
+Bias: 0.0
+
+Para o neuronio 6 e input 0, o resultado na saida foi -20.0
+Para o neuronio 6 e input 1, o resultado na saida foi 4.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 6 com base no input 1:
+Pesos: [ 2. -2.  2.  6. -2. -2.  2. -2.  2.  2.  6. -2.  2. -2.  2.  2. -2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 6 e input 0, o resultado na saida foi -22.0
+Para o neuronio 6 e input 1, o resultado na saida foi -38.0
+Para o neuronio 6 e input 2, o resultado na saida foi -22.0
+Para o neuronio 6 e input 3, o resultado na saida foi -10.0
+Para o neuronio 6 e input 4, o resultado na saida foi 10.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 6 com base no input 4:
+Pesos: [ 0.  0.  0.  8. -4.  0.  0.  0.  0.  0.  4. -4.  4.  0.  0.  4.  0.  0.
+ -4.  4.]
+Bias: -4.0
+
+Para o neuronio 6 e input 0, o resultado na saida foi -24.0
+Para o neuronio 6 e input 1, o resultado na saida foi -32.0
+Para o neuronio 6 e input 2, o resultado na saida foi -16.0
+Para o neuronio 6 e input 3, o resultado na saida foi -8.0
+Para o neuronio 6 e input 4, o resultado na saida foi -32.0
+Para o neuronio 6 e input 5, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 6 com base no input 5:
+Pesos: [-2. -2. -2.  6. -6.  2.  2.  2. -2. -2.  2. -2.  6.  2.  2.  2. -2. -2.
+ -6.  6.]
+Bias: -6.0
+
+Para o neuronio 6 e input 0, o resultado na saida foi -34.0
+Para o neuronio 6 e input 1, o resultado na saida foi -42.0
+Para o neuronio 6 e input 2, o resultado na saida foi -26.0
+Para o neuronio 6 e input 3, o resultado na saida foi -30.0
+Para o neuronio 6 e input 4, o resultado na saida foi -42.0
+Para o neuronio 6 e input 5, o resultado na saida foi -42.0
+Para o neuronio 6 e input 6, o resultado na saida foi -22.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 6 com base no input 6:
+Pesos: [-4.  0.  0.  8. -4.  0.  0.  0.  0.  0.  4. -4.  8.  0.  0.  4. -4.  0.
+ -4.  4.]
+Bias: -4.0
+
+Para o neuronio 6 e input 0, o resultado na saida foi -12.0
+Para o neuronio 6 e input 1, o resultado na saida foi -36.0
+Para o neuronio 6 e input 2, o resultado na saida foi -20.0
+Para o neuronio 6 e input 3, o resultado na saida foi -20.0
+Para o neuronio 6 e input 4, o resultado na saida foi -36.0
+Para o neuronio 6 e input 5, o resultado na saida foi -12.0
+Para o neuronio 6 e input 6, o resultado na saida foi 20.0
+Para o neuronio 6 e input 7, o resultado na saida foi 4.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 6 com base no input 7:
+Pesos: [-6. -2. -2.  6. -2.  2.  2. -2.  2.  2.  2. -2. 10. -2.  2.  6. -2. -2.
+ -2.  6.]
+Bias: -6.0
+
+Para o neuronio 6 e input 0, o resultado na saida foi -14.0
+Para o neuronio 6 e input 1, o resultado na saida foi -38.0
+Para o neuronio 6 e input 2, o resultado na saida foi -38.0
+Para o neuronio 6 e input 3, o resultado na saida foi -42.0
+Para o neuronio 6 e input 4, o resultado na saida foi -30.0
+Para o neuronio 6 e input 5, o resultado na saida foi -22.0
+Para o neuronio 6 e input 6, o resultado na saida foi 14.0
+Para o neuronio 6 e input 7, o resultado na saida foi -38.0
+Para o neuronio 6 e input 8, o resultado na saida foi -6.0
+Para o neuronio 6 e input 9, o resultado na saida foi -22.0
+
+
+Treinamento do Neuronio 7
+Para o neuronio 7 e input 0, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 7 com base no input 0:
+Pesos: [ 2. -2. -2.  2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  2.  2. -2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 7 e input 0, o resultado na saida foi -42.0
+Para o neuronio 7 e input 1, o resultado na saida foi -2.0
+Para o neuronio 7 e input 2, o resultado na saida foi -10.0
+Para o neuronio 7 e input 3, o resultado na saida foi -14.0
+Para o neuronio 7 e input 4, o resultado na saida foi -2.0
+Para o neuronio 7 e input 5, o resultado na saida foi -10.0
+Para o neuronio 7 e input 6, o resultado na saida foi -22.0
+Para o neuronio 7 e input 7, o resultado na saida foi -2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 7 com base no input 7:
+Pesos: [ 4.  0.  0.  4. -4.  0.  0.  0. -4.  0.  4. -4. -4.  4.  0. -4.  0.  0.
+ -4.  0.]
+Bias: 0.0
+
+Para o neuronio 7 e input 0, o resultado na saida foi -40.0
+Para o neuronio 7 e input 1, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 7 com base no input 1:
+Pesos: [ 6. -2.  2.  6. -6. -2.  2.  2. -2. -2.  6. -2. -2.  2.  2. -2. -2. -2.
+ -6.  2.]
+Bias: -2.0
+
+Para o neuronio 7 e input 0, o resultado na saida foi -42.0
+Para o neuronio 7 e input 1, o resultado na saida foi -42.0
+Para o neuronio 7 e input 2, o resultado na saida foi -10.0
+Para o neuronio 7 e input 3, o resultado na saida foi 2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 7 com base no input 3:
+Pesos: [ 4. -4.  0.  8. -4.  0.  4.  0.  0.  0.  4.  0.  0.  4.  4. -4. -4. -4.
+ -8.  4.]
+Bias: -4.0
+
+Para o neuronio 7 e input 0, o resultado na saida foi -56.0
+Para o neuronio 7 e input 1, o resultado na saida foi -48.0
+Para o neuronio 7 e input 2, o resultado na saida foi -32.0
+Para o neuronio 7 e input 3, o resultado na saida foi -40.0
+Para o neuronio 7 e input 4, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 7 com base no input 4:
+Pesos: [  2.  -2.  -2.  10.  -6.   2.   2.   2.  -2.  -2.   2.  -2.   2.   6.
+   2.  -2.  -2.  -2. -10.   6.]
+Bias: -6.0
+
+Para o neuronio 7 e input 0, o resultado na saida foi -58.0
+Para o neuronio 7 e input 1, o resultado na saida foi -42.0
+Para o neuronio 7 e input 2, o resultado na saida foi -26.0
+Para o neuronio 7 e input 3, o resultado na saida foi -38.0
+Para o neuronio 7 e input 4, o resultado na saida foi -42.0
+Para o neuronio 7 e input 5, o resultado na saida foi -42.0
+Para o neuronio 7 e input 6, o resultado na saida foi -38.0
+Para o neuronio 7 e input 7, o resultado na saida foi 22.0
+Para o neuronio 7 e input 8, o resultado na saida foi -50.0
+Para o neuronio 7 e input 9, o resultado na saida foi -50.0
+
+
+Treinamento do Neuronio 8
+Para o neuronio 8 e input 0, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 8 com base no input 0:
+Pesos: [ 2. -2. -2.  2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  2.  2. -2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 8 e input 0, o resultado na saida foi -42.0
+Para o neuronio 8 e input 1, o resultado na saida foi -2.0
+Para o neuronio 8 e input 2, o resultado na saida foi -10.0
+Para o neuronio 8 e input 3, o resultado na saida foi -14.0
+Para o neuronio 8 e input 4, o resultado na saida foi -2.0
+Para o neuronio 8 e input 5, o resultado na saida foi -10.0
+Para o neuronio 8 e input 6, o resultado na saida foi -22.0
+Para o neuronio 8 e input 7, o resultado na saida foi -2.0
+Para o neuronio 8 e input 8, o resultado na saida foi -26.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 8 com base no input 8:
+Pesos: [ 0.  0.  0.  0.  0.  0.  0.  0. -4.  4.  4. -4.  0.  0.  0.  0.  0.  0.
+  0.  0.]
+Bias: 0.0
+
+Para o neuronio 8 e input 0, o resultado na saida foi -16.0
+Para o neuronio 8 e input 1, o resultado na saida foi 8.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 8 com base no input 1:
+Pesos: [ 2. -2.  2.  2. -2. -2.  2.  2. -2.  2.  6. -2.  2. -2.  2.  2. -2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 8 e input 0, o resultado na saida foi -18.0
+Para o neuronio 8 e input 1, o resultado na saida foi -34.0
+Para o neuronio 8 e input 2, o resultado na saida foi -10.0
+Para o neuronio 8 e input 3, o resultado na saida foi 2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 8 com base no input 3:
+Pesos: [ 0. -4.  0.  4.  0.  0.  4.  0.  0.  4.  4.  0.  4.  0.  4.  0. -4. -4.
+ -4.  4.]
+Bias: -4.0
+
+Para o neuronio 8 e input 0, o resultado na saida foi -32.0
+Para o neuronio 8 e input 1, o resultado na saida foi -40.0
+Para o neuronio 8 e input 2, o resultado na saida foi -32.0
+Para o neuronio 8 e input 3, o resultado na saida foi -40.0
+Para o neuronio 8 e input 4, o resultado na saida foi 8.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 8 com base no input 4:
+Pesos: [-2. -2. -2.  6. -2.  2.  2.  2. -2.  2.  2. -2.  6.  2.  2.  2. -2. -2.
+ -6.  6.]
+Bias: -6.0
+
+Para o neuronio 8 e input 0, o resultado na saida foi -34.0
+Para o neuronio 8 e input 1, o resultado na saida foi -34.0
+Para o neuronio 8 e input 2, o resultado na saida foi -26.0
+Para o neuronio 8 e input 3, o resultado na saida foi -38.0
+Para o neuronio 8 e input 4, o resultado na saida foi -34.0
+Para o neuronio 8 e input 5, o resultado na saida foi -34.0
+Para o neuronio 8 e input 6, o resultado na saida foi -14.0
+Para o neuronio 8 e input 7, o resultado na saida foi -10.0
+Para o neuronio 8 e input 8, o resultado na saida foi -18.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 8 com base no input 8:
+Pesos: [-4.  0.  0.  4.  0.  0.  0.  4. -4.  4.  4. -4.  8.  0.  0.  4. -4.  0.
+ -4.  4.]
+Bias: -4.0
+
+Para o neuronio 8 e input 0, o resultado na saida foi -8.0
+Para o neuronio 8 e input 1, o resultado na saida foi -24.0
+Para o neuronio 8 e input 2, o resultado na saida foi -8.0
+Para o neuronio 8 e input 3, o resultado na saida foi -16.0
+Para o neuronio 8 e input 4, o resultado na saida foi -32.0
+Para o neuronio 8 e input 5, o resultado na saida foi -16.0
+Para o neuronio 8 e input 6, o resultado na saida foi 16.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 8 com base no input 6:
+Pesos: [-2. -2. -2.  2. -2.  2.  2.  6. -6.  2.  2. -2.  6.  2.  2.  2. -2. -2.
+ -6.  6.]
+Bias: -6.0
+
+Para o neuronio 8 e input 0, o resultado na saida foi -30.0
+Para o neuronio 8 e input 1, o resultado na saida foi -30.0
+Para o neuronio 8 e input 2, o resultado na saida foi -14.0
+Para o neuronio 8 e input 3, o resultado na saida foi -26.0
+Para o neuronio 8 e input 4, o resultado na saida foi -38.0
+Para o neuronio 8 e input 5, o resultado na saida foi -46.0
+Para o neuronio 8 e input 6, o resultado na saida foi -26.0
+Para o neuronio 8 e input 7, o resultado na saida foi -6.0
+Para o neuronio 8 e input 8, o resultado na saida foi -6.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 8 com base no input 8:
+Pesos: [-4.  0.  0.  0.  0.  0.  0.  8. -8.  4.  4. -4.  8.  0.  0.  4. -4.  0.
+ -4.  4.]
+Bias: -4.0
+
+Para o neuronio 8 e input 0, o resultado na saida foi -4.0
+Para o neuronio 8 e input 1, o resultado na saida foi -20.0
+Para o neuronio 8 e input 2, o resultado na saida foi 4.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 8 com base no input 2:
+Pesos: [-2. -2. -2.  2. -2.  2.  2.  6. -6.  6.  2. -2. 10. -2.  2.  6. -6. -2.
+ -6.  2.]
+Bias: -6.0
+
+Para o neuronio 8 e input 0, o resultado na saida foi -14.0
+Para o neuronio 8 e input 1, o resultado na saida foi -38.0
+Para o neuronio 8 e input 2, o resultado na saida foi -38.0
+Para o neuronio 8 e input 3, o resultado na saida foi -26.0
+Para o neuronio 8 e input 4, o resultado na saida foi -30.0
+Para o neuronio 8 e input 5, o resultado na saida foi -38.0
+Para o neuronio 8 e input 6, o resultado na saida foi -2.0
+Para o neuronio 8 e input 7, o resultado na saida foi -14.0
+Para o neuronio 8 e input 8, o resultado na saida foi 18.0
+Para o neuronio 8 e input 9, o resultado na saida foi -14.0
+
+
+Treinamento do Neuronio 9
+Para o neuronio 9 e input 0, o resultado na saida foi 0.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 9 com base no input 0:
+Pesos: [ 2. -2. -2.  2. -2.  2.  2. -2. -2.  2.  2. -2. -2.  2.  2. -2.  2. -2.
+ -2.  2.]
+Bias: -2.0
+
+Para o neuronio 9 e input 0, o resultado na saida foi -42.0
+Para o neuronio 9 e input 1, o resultado na saida foi -2.0
+Para o neuronio 9 e input 2, o resultado na saida foi -10.0
+Para o neuronio 9 e input 3, o resultado na saida foi -14.0
+Para o neuronio 9 e input 4, o resultado na saida foi -2.0
+Para o neuronio 9 e input 5, o resultado na saida foi -10.0
+Para o neuronio 9 e input 6, o resultado na saida foi -22.0
+Para o neuronio 9 e input 7, o resultado na saida foi -2.0
+Para o neuronio 9 e input 8, o resultado na saida foi -26.0
+Para o neuronio 9 e input 9, o resultado na saida foi -18.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 9 com base no input 9:
+Pesos: [ 0.  0.  0.  0.  0.  0.  0.  0. -4.  4.  4.  0. -4.  0.  0.  0.  4.  0.
+  0.  4.]
+Bias: 0.0
+
+Para o neuronio 9 e input 0, o resultado na saida foi -24.0
+Para o neuronio 9 e input 1, o resultado na saida foi 8.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 9 com base no input 1:
+Pesos: [ 2. -2.  2.  2. -2. -2.  2.  2. -2.  2.  6.  2. -2. -2.  2.  2.  2. -2.
+ -2.  6.]
+Bias: -2.0
+
+Para o neuronio 9 e input 0, o resultado na saida foi -26.0
+Para o neuronio 9 e input 1, o resultado na saida foi -34.0
+Para o neuronio 9 e input 2, o resultado na saida foi -2.0
+Para o neuronio 9 e input 3, o resultado na saida foi 2.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 9 com base no input 3:
+Pesos: [ 0. -4.  0.  4.  0.  0.  4.  0.  0.  4.  4.  4.  0.  0.  4.  0.  0. -4.
+ -4.  8.]
+Bias: -4.0
+
+Para o neuronio 9 e input 0, o resultado na saida foi -40.0
+Para o neuronio 9 e input 1, o resultado na saida foi -40.0
+Para o neuronio 9 e input 2, o resultado na saida foi -24.0
+Para o neuronio 9 e input 3, o resultado na saida foi -40.0
+Para o neuronio 9 e input 4, o resultado na saida foi 8.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 9 com base no input 4:
+Pesos: [-2. -2. -2.  6. -2.  2.  2.  2. -2.  2.  2.  2.  2.  2.  2.  2.  2. -2.
+ -6. 10.]
+Bias: -6.0
+
+Para o neuronio 9 e input 0, o resultado na saida foi -42.0
+Para o neuronio 9 e input 1, o resultado na saida foi -34.0
+Para o neuronio 9 e input 2, o resultado na saida foi -18.0
+Para o neuronio 9 e input 3, o resultado na saida foi -38.0
+Para o neuronio 9 e input 4, o resultado na saida foi -34.0
+Para o neuronio 9 e input 5, o resultado na saida foi -34.0
+Para o neuronio 9 e input 6, o resultado na saida foi -30.0
+Para o neuronio 9 e input 7, o resultado na saida foi -18.0
+Para o neuronio 9 e input 8, o resultado na saida foi -34.0
+Para o neuronio 9 e input 9, o resultado na saida foi -10.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 9 com base no input 9:
+Pesos: [-4.  0.  0.  4.  0.  0.  0.  4. -4.  4.  4.  4.  0.  0.  0.  4.  4.  0.
+ -4. 12.]
+Bias: -4.0
+
+Para o neuronio 9 e input 0, o resultado na saida foi -24.0
+Para o neuronio 9 e input 1, o resultado na saida foi -24.0
+Para o neuronio 9 e input 2, o resultado na saida foi 8.0
+Target incorreto!
+
+Pesos atualizados para o neuronio 9 com base no input 2:
+Pesos: [-2. -2. -2.  6. -2.  2.  2.  2. -2.  6.  2.  6.  2. -2.  2.  6.  2. -2.
+ -6. 10.]
+Bias: -6.0
+
+Para o neuronio 9 e input 0, o resultado na saida foi -34.0
+Para o neuronio 9 e input 1, o resultado na saida foi -42.0
+Para o neuronio 9 e input 2, o resultado na saida foi -34.0
+Para o neuronio 9 e input 3, o resultado na saida foi -38.0
+Para o neuronio 9 e input 4, o resultado na saida foi -26.0
+Para o neuronio 9 e input 5, o resultado na saida foi -26.0
+Para o neuronio 9 e input 6, o resultado na saida foi -22.0
+Para o neuronio 9 e input 7, o resultado na saida foi -34.0
+Para o neuronio 9 e input 8, o resultado na saida foi -26.0
+Para o neuronio 9 e input 9, o resultado na saida foi 6.0
+
+Matriz de pesos:
+[[ -2.  -2.  -2.   2.  -2.   2.   2.   6.   2.  -6.  -6.   6.   6.   2.
+    2.   2.  -2.  -2.  -6.   6.]
+ [  2.  -2.  -6.   2.  -2.   6.   2.  -6.  -2.   6.  -2.  -2.  -2.   2.
+    2.  -2.   2.  -2.  -2.  -2.]
+ [ -6.  -2.  -2.   2.   2.   2.   2.   2.  -2.  -2.   2.  -2.   2.   6.
+    2.  -2.   6.  -2.  -2.  14.]
+ [  6.  -2.  -2.   2. -10.   2.   2.   2.  -2.  -2.   2.  -2.   2.  -6.
+    2.  10.   6.  -2.  -2.   2.]
+ [  2.  -6.  -2.  -2.  -2.   2.   6.  -2.  -2.   2.   2.   2.  -2.   2.
+    6.  -6.  -2.  -6.  -2.   2.]
+ [  6.  -2.  -2.  10.  -2.   2.   2.  -2.   2.   2.   2.  -2.  -2.   2.
+    2.   2.   6.  -2.  -6.   6.]
+ [ -6.  -2.  -2.   6.  -2.   2.   2.  -2.   2.   2.   2.  -2.  10.  -2.
+    2.   6.  -2.  -2.  -2.   6.]
+ [  2.  -2.  -2.  10.  -6.   2.   2.   2.  -2.  -2.   2.  -2.   2.   6.
+    2.  -2.  -2.  -2. -10.   6.]
+ [ -2.  -2.  -2.   2.  -2.   2.   2.   6.  -6.   6.   2.  -2.  10.  -2.
+    2.   6.  -6.  -2.  -6.   2.]
+ [ -2.  -2.  -2.   6.  -2.   2.   2.   2.  -2.   6.   2.   6.   2.  -2.
+    2.   6.   2.  -2.  -6.  10.]]
+
+Bias:
+[-6. -2. -6. -6. -2. -6. -6. -6. -6. -6.]
